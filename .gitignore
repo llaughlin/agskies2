@@ -1,0 +1,15 @@
+
+## Mac Crap
+.DS_Store
+
+journeymap/
+backups/
+TCNodeTracker/
+SquidAPI/
+logs/
+asm/
+server-resource-packs/
+maps/
+resources/
+customnpcs/
+BotaniaVars.dat

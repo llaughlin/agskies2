@@ -11,7 +11,7 @@ anaglyph3d:false
 advancedOpengl:true
 maxFps:80
 fboEnable:true
-difficulty:1
+difficulty:2
 fancyGraphics:true
 ao:2
 clouds:false
@@ -91,7 +91,7 @@ key_Tool Increase:201
 key_Tool Decrease:209
 key_simplyjetpacks.keybind.toggle.primary:33
 key_simplyjetpacks.keybind.toggle.secondary:0
-key_simplyjetpacks.keybind.mode.primary:46
+key_simplyjetpacks.keybind.mode.primary:36
 key_simplyjetpacks.keybind.mode.secondary:0
 key_simplyjetpacks.keybind.openPackGUI:22
 key_Baubles Inventory:48
@@ -133,7 +133,7 @@ soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.0
 soundCategory_block:1.0
-soundCategory_hostile:0.35915494
+soundCategory_hostile:0.07042254
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:0.0

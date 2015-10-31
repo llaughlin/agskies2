@@ -117,6 +117,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "thaumcraft.common.entities.monster.EntityFireBat",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
       "Entity Class": "ganymedes01.headcrumbs.entity.EntityHuman",
       "Weight": 25,
       "Min Group Count": 1,
